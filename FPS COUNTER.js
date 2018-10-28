@@ -43,4 +43,3 @@ setInterval(function(){
 	appendDiv(fpsCounter.fps);
 }, 1500);
 FPSloop();
-appendDiv(fpsCounter.fps);
