@@ -38,8 +38,9 @@ function appendDiv(text){
 		c.innerHTML = "<p style='font-size: 16px; color: #00FF00; margin: 10px'>FPS: "+text+"</p>";
 	}
 }
-
+/*
 setInterval(function(){
 	appendDiv(fpsCounter.fps);
 }, 1500);
+*/
 FPSloop();
