@@ -1,5 +1,5 @@
-# FPS-counter
-Just get the current fps !
+# Stats.js
+Just get the current fps and your speed connexion !
 
 ```js
 console.log(stats.speedCo); //Show your current speed connexion ko/s
